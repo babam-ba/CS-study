@@ -4,6 +4,7 @@
 * [HTML, CSS](html-css.md)
   * [웹 표준과 웹 접근성에 대해 설명해주세요](html-css/undefined.md)
   * [DOM, BOM, CSSOM](html-css/dom-bom-cssom.md)
+  * [DOCKTYPE](html-css/docktype.md)
 * [JavaScript](javascript.md)
 * [React](react.md)
 * [Web](web.md)
