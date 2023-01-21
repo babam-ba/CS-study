@@ -2,9 +2,10 @@
 
 * [🌰 About CS study](README.md)
 * [HTML, CSS](html-css.md)
-  * [웹 표준과 웹 접근성에 대해 설명해주세요](html-css/undefined.md)
+  * [웹 표준, 웹 접근성, 웹 호환성](html-css/undefined.md)
   * [DOM, BOM, CSSOM](html-css/dom-bom-cssom.md)
   * [DOCKTYPE](html-css/docktype.md)
+  * [시맨틱 태그](html-css/undefined-1.md)
   * [meta 태그](html-css/meta.md)
   * [SEO](html-css/seo.md)
 * [JavaScript](javascript.md)
