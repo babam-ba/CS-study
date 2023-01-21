@@ -6,6 +6,7 @@
   * [DOM, BOM, CSSOM](html-css/dom-bom-cssom.md)
   * [DOCKTYPE](html-css/docktype.md)
   * [meta 태그](html-css/meta.md)
+  * [SEO](html-css/seo.md)
 * [JavaScript](javascript.md)
   * [동기 vs 비동기](javascript/vs.md)
   * [JS에서 비동기가 이루어지는 방식](javascript/js.md)
