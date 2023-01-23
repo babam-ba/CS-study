@@ -14,6 +14,7 @@
   * [마이크로태스크 큐](javascript/undefined.md)
 * [React](react.md)
 * [Web](web.md)
-* [Network](network/README.md)
+* [Network](network.md)
   * [프로토콜이란?](network/undefined.md)
+  * [Socket이란?](network/socket.md)
 * [Operating System](operating-system.md)
