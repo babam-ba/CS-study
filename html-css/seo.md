@@ -1,3 +1,7 @@
+---
+description: "SEO란 무엇인가요? -\_⭐⭐⭐"
+---
+
 # SEO
 
 ## SEO(Search Engin Optimiztion | 검색엔진 최적화)
